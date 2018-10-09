@@ -14,6 +14,10 @@
 
 * El siguiente artículo científico: Cole Trapnell & Steven L Salzberg. (2009). **How to map billions of short reads onto genomes**. Nature Biotechnology, 27, 455-457. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/nbt0509-455.pdf).
 
+#### Sesión 11 (16 de octubre)
+
+* El siguiente artículo científico: Jared T. Simpson & Mihai Pop. (2015). **The Theory and Practice of Genome Sequence Assembly**. Annu Rev Genomics Hum Genet, 16:153-72. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/annurev-genom-090314-050032.pdf).
+
 ---
 
 <p align="center">
